@@ -1,0 +1,19 @@
+LICENSE - file describing license associated with the project
+README.md - general description of the project and usage
+bin - compiled codes or binaries
+config - configuration files
+data
+	external - data from third party sources
+	interim - intermediate data that has been transformed
+	processed - the clean data set
+	raw - the original, immutable data dump
+docs - package documentation
+notebooks - Jupyter or Rmarkdown notebooks
+reports - for a manuscript source, e.g., LaTeX, md
+figures - figures for the manuscript or reports
+output - the results of your analysis
+src
+	data - scripts and programs to process data
+	models - source code for your own models
+	tools - any helper scripts go here (utils)
+	visualisation - scripts for visualisation of your outputs
